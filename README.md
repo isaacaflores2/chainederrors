@@ -1,2 +1,2 @@
 # chainederrors
-Library that supports error chains to work well with errors.Is()
+Library to supports error chains so errors.Is() can work well with nested errors
